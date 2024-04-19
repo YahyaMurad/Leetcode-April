@@ -25,3 +25,36 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 8th April
 - [Number of Students Unable to Eat Lunch (Easy)](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08)
+
+## 9th April
+- [Time Needed to Buy Tickets (Easy)](https://leetcode.com/problems/time-needed-to-buy-tickets/description/?envType=daily-question&envId=2024-04-09)
+
+## 10th April
+- [Reveal Cards In Increasing Order (Medium)](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10)
+
+## 11th April
+- [Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11)
+
+## 12th April
+- [Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/description/?envType=daily-question&envId=2024-04-12)
+
+## 13th April
+- [Maximal Rectangle (Hard)](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
+
+## 14th April
+- [Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
+
+## 15th April
+- [Sum Root to Leaf Numbers (Easy)](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=daily-question&envId=2024-04-15)
+
+## 16th April
+- [Add One Row to Tree (Easy)](https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16)
+
+## 17th April
+- [Smallest String Starting From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
+
+## 18th April
+- [Island Perimeter (Easy)](https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18)
+
+## 19th April
+= [Number of Islands (Medium)](https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19)
