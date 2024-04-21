@@ -61,3 +61,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 20th April
 - [Find All Groups of Farmland (Medium)](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20)
+
+## 21st April
+- [Find if Path Exists in Graph (Easy)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21)
