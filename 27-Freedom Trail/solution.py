@@ -1,20 +1,24 @@
-import math
-
 class Solution:
     def findRotateSteps(self, ring, key):
-        @functools.lru_cache(None)
-        def dfs(ring, index):
-            if index == len(key):
+        memo = {}
+        def helper(r, k):
+            if k == len(key):
                 return 0
-            ans = math.inf
+            
+            if (r, k) in memo:
+                return memo[(r, k)]
+            
+            res = float("INF")
 
-            for i, r in enumerate(ring):
-                if r == key[index]:
-                    minRotates = min(i, len(ring) - i)
-                    newRing = ring[i:] + ring[:i]
-                    remainingRotates = dfs(newRing, index + 1)
-                    ans = min(ans, minRotates + remainingRotates)
+            for i, c in enumerate(ring):
+                if c == key[k]:
+                    minDistance = min(abs(r - i), len(ring) - abs(r - i))
+                    res = min(res, minDistance + 1 + helper(i, k + 1))
+            
+            memo[(r, k)] = res
+            return res
+        
+        return helper(0, 0)
 
-            return ans
-
-        return dfs(ring, 0) + len(key)
+sol = Solution()
+print(sol.findRotateSteps("godding", "gd"))
