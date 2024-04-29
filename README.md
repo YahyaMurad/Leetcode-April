@@ -73,3 +73,12 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 24th April
 - [N-th Tribonacci Number (Easy)](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=daily-question&envId=2024-04-24)
+
+## 25th April
+- [Longest Ideal Subsequence (Medium)](https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25)
+
+## 26th April
+- [Minimum Falling Path Sum II (Hard)](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26)
+
+## 27th April
+- [Freedom Trail (Hard)](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27)
