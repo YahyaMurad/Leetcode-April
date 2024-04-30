@@ -64,3 +64,12 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 21st April
 - [Find if Path Exists in Graph (Easy)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21)
+
+## 22nd April
+- [Open the Lock (Medium)](https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22)
+
+## 23rd April
+- [Minimum Height Trees (Medium)](https://leetcode.com/problems/minimum-height-trees/description/?envType=daily-question&envId=2024-04-23)
+
+## 24th April
+- [N-th Tribonacci Number (Easy)](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=daily-question&envId=2024-04-24)
