@@ -82,3 +82,12 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 27th April
 - [Freedom Trail (Hard)](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27)
+
+## 28th April
+- [Sum of Distances in Tree (Hard)](https://leetcode.com/problems/sum-of-distances-in-tree/description/?envType=daily-question&envId=2024-04-28)
+
+## 29th April
+- [Minimum Number of Operations to Make Array XOR Equal to K (Medium)](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29)
+
+## 30th April
+- [Number of Wonderful Substrings (Medium)](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30)
